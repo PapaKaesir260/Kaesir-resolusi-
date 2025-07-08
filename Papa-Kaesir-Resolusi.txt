@@ -1,0 +1,10 @@
+Kaesir Resolusi
+
+AI enginneer resolution:
+- Belajar data science dengan python
+- dilanjut dengan machine learning dan deep learning
+
+WEB DEVELOPMENT:
+- Belajar Javascript dan framework-frameworknya
+- project web app
+- belajar backend lebih lanjut
